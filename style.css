@@ -1,0 +1,27 @@
+/* 重置浏览器默认样式 */
+*{
+	margin:0;
+	padding:0;
+}
+/* wrap */
+.wrap{
+	width:1180px;
+	padding: 0 10px;
+}
+/*  header start  */
+#header{
+	background-color: #cdcdcd;
+}
+
+/*  main start  */
+#main{
+	background-color: #cdcdcd;
+}
+/* footer start  */
+#fooder{
+	background-color: #cdcdcd
+	
+}
+/* */
+/* */
+/* */
