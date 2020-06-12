@@ -1,0 +1,105 @@
+/* 重置浏览器默认样式 */
+*{
+	margin:0;
+	padding:0;
+}
+a{
+	text-decoration: none;
+}
+ul{
+	list-style: none;
+}
+/* 页面结构 */
+#header{
+	background-color: white;
+	
+}
+#banner{
+	
+}
+#main{
+	background-color: #FFF8DC
+}
+#footer{
+	background-color: white
+}
+ul,li{
+	list-style: none;
+}
+/* wrap */
+.wrap{
+	width:1280px;
+	padding: 0 10px;
+	margin: 0 auto;
+	
+}
+	#LOGO{
+	background-image:#FFDAB9;
+	float:left;
+	padding: 0 40px;
+	margin-top:5px;
+	
+}
+#nav{
+	background-color: #FFF8DC;
+	float:right;
+	padding: 0 40px;
+	margin-top:60px
+}
+#nav li{
+	float:left;
+	margin-left:40px;
+}
+
+
+/* header */
+
+
+
+	
+}
+/* main */
+.about{
+	background-color: #FFF8DC;
+}
+.skill{
+	background-color: #FFF8DC;
+	
+}
+.experience{
+	background-color: #FFF8DC;
+}
+.w1180{
+	width:1180px;
+	margin:0 auto;
+	background-color: #FFF8DC;
+	overflow:hidden;
+	}
+.left{
+	float:left;
+	width:400px;
+	background-color: #FFF8DC
+}
+.right{
+	float:left;
+	width:780px;
+	background-color: #FFF8DC;
+}
+.left img{
+	width:350px;
+	
+	display:block;
+}
+
+/* footer */
+.box{
+	width:295px;
+	height:160px;
+	float:left;
+	background-color: white;
+}
+.box.left2{
+	float:left;
+	width:100px;
+}
+/* */
